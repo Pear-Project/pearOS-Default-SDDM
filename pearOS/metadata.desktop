@@ -1,5 +1,5 @@
 [SddmGreeterTheme]
-Name=breeze
+Name=pearOS
 Description=Monterey theme for pearOS
 Author=Alexandru balan, forked from VinceLiuice
 License=GPL-3.0-or-later
@@ -11,5 +11,5 @@ MainScript=Main.qml
 ConfigFile=theme.conf
 TranslationsDirectory=translations
 Email=alex@pearos.xyz
-Theme-Id=breeze
+Theme-Id=pearOS
 Theme-API=2.0
